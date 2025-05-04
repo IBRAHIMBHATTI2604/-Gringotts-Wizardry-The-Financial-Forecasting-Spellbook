@@ -4,7 +4,6 @@ Financial Data Science and Machine Learning
 
 👨‍🏫 Instructor Name
 Professor Albus Dumbledore (or replace with your actual instructor)
-
 🧙 App Overview
 Welcome to Gringotts' Wizardry: The Financial Forecasting Spellbook — a Harry Potter–themed machine learning tool for magical stock market forecasting. This interactive Streamlit app turns financial data analysis into a whimsical journey through the wizarding world of Hogwarts.
 
